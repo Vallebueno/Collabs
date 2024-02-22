@@ -7,7 +7,7 @@
 
 
 ##########example how to run:
-# &sbatch Samtools_Varcall_pipeline.sh input_file.bam name_sample reference.fasta path2OUTDIR Quality_phred_cutoff
+# &sbatch MAVE_Samtools_Varcall.sh input_file.bam name_sample reference.fasta path2OUTDIR Quality_phred_cutoff
 
 
 
