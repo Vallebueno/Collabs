@@ -1,5 +1,16 @@
 #!/usr/bin/perl
 
+
+#Perl Script to disect results of vcftools sliding windows and calculate Fold Change and Foldchange proportion of 2 vcftools ouputs. FE teosinte vs Landraces.
+#it also take into aconunt files of cordintates to look into particular regions.
+# input vcftools --window-pi --window-pi-step
+# Author: Miguel Vallebueno  CC BY-NC-SA 4.0
+# Date: 2024-08-23
+
+
+
+
+
 $in="Candidate_genes.txt";
 print "Loading candidate list <$in>....\n";
 # Open the file or die with an error message
